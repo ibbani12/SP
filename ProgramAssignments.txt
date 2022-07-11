@@ -1,0 +1,23 @@
+#include<stdio>
+#include<sys/types>
+#include<unistd>
+#include<sys/wait>
+int main()
+{
+        pid_t pid;
+        int i=1;
+        for(;;)
+        {
+                pid = fprk();
+                if(pid < 0)
+                        printf("MAX no of concu"<<endl;
+                                        if(pid ==0)
+                                        i++;
+                                        else
+                                        {
+                                        wait(0);
+                                        exit(0);
+                        }
+        }
+        return 0;
+        }

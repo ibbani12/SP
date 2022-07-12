@@ -1,0 +1,13 @@
+sudo apt install g++
+gcc
+gdb
+sudo apt install valgrind
+vm ware
+
+
+2-4 classes with inheritance
+file io operations
+login / singup
+check validity of users
+apply multi threading concept
+include stls
